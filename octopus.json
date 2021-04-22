@@ -76,7 +76,7 @@
         },
         {
             "name": "leaflet-ssapp",
-            "src": "https://github.com/PharmaLedger-IMI/leaflet-ssapp.git",
+            "src": "https://github.com/mrk-digital-fingerprint/leaflet-ssapp.git",
             "actions": [
                 {
                     "type": "smartClone",
